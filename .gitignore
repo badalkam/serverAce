@@ -3,6 +3,7 @@
 # dependencie
 /node_modules
 /config
+config.js
 
 
 
